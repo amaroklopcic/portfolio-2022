@@ -3,7 +3,7 @@ import "./App.css";
 
 import Navigation from "./components/Navigation";
 import LandingSection from "./components/pages/Landing";
-import AboutSection from "./components/pages/About";
+import AboutSection from "./components/pages/about/About";
 import PreviousWorkSection from "./components/pages/PreviousWork";
 import ContactSection from "./components/pages/Contact";
 
